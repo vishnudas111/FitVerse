@@ -1,4 +1,4 @@
-# 🏋️ Fitverse - Fitness Slot Booking System
+# 🏋️ Fitverse - Workout Slot Booking System
 
 FlipFit is a scalable backend system designed to manage gym slot bookings across multiple centers in Bangalore. The system allows users to register, view available workout slots, book or cancel workout sessions, and get recommendations for nearby available slots. It also handles concurrent bookings, prevents overbooking, and manages a waitlist effectively.
 
